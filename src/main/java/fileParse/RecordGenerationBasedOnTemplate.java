@@ -14,7 +14,17 @@ import java.io.*;
 import java.util.*;
 
 /**
- *TODO: Documentation
+ * RecordGenerationBasedOnTemplate can be used to prepare realistic test data
+ * based one template in XML format. It comes handy when we have got some templates
+ * and we would like to prepare 1000s data based on that template and load in the application
+ * At first XML files get parsed. Files need to be placed under {project directory}/qa/dictionary/xml files
+ * All the keys(by default 'FL_AtlasFieldName' would be read out
+ * One property.txt needs to present that would map the retrieved key from xml files against the data source files
+ * example:  FL_ZipCode : /qa/dictionary/zip.txt
+ * Now all the data from the source files would be read out
+ * Finally one text file would be prepared with 1000s of data retrieved randomly based on that template
+ *
+ *
  */
 public class RecordGenerationBasedOnTemplate {
 	public static void main(String[] args) {
@@ -53,7 +63,6 @@ public class RecordGenerationBasedOnTemplate {
 				System.out.println("Root element :" + doc.getDocumentElement().getNodeName());
 				// Prepare five flat files based on one template
 
-				///////////////////////////////////////////
 				System.out.println("*****************************************************************************");
 				System.out.println("XML Name : " + file.getName());
 				System.out.println("*****************************************************************************");
@@ -101,8 +110,6 @@ public class RecordGenerationBasedOnTemplate {
 					if(count != numberRecordsToBeAdded){
 						text += "\n";
 					}
-					System.out.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
-
 					System.out.println(count);
 				}
 				try {
@@ -123,13 +130,6 @@ public class RecordGenerationBasedOnTemplate {
 				}
 
 			}
-
-			System.out.println("****************************");
-			// Now Loop Through the returned List which contains Node Values
-			// If the node value
-
-
-
 
 		} catch (Exception e1) {
 			System.out.println(e1.getMessage());
