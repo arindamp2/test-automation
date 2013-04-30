@@ -1,0 +1,1 @@
+False	1789 Eastwood cambridge	EastBlock 31H	False	LA County	Other	SANTA CRUZ, CA	district_selenium_0005	robert@gmail.com	8143657547	ID/CLIA Code05	False	sel_InvestigationType00	sel_Location05	sel_Location03	987	8961000707	phillips	98765	NY	17623

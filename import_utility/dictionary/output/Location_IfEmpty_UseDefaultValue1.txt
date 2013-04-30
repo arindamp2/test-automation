@@ -1,0 +1,1 @@
+False	2454 NewYork LosAngels	EastBlock 31H	False	Norway	Health Care	SAN DIEGO, CA	district_selenium_0005	robert@gmail.com	9848440545	ID/CLIA Code04	False	sel_InvestigationType00	sel_Location04	sel_Location03	244543	0987654321	james corlew	09876	Alberta	09876

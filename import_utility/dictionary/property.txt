@@ -1,0 +1,56 @@
+DIS_DistrictNumber:	import_utility\\dictionary\\District Code.txt
+DIS_District:	import_utility\\dictionary\\District Name.txt
+DIS_InActive:	import_utility\\dictionary\\Inactive.txt
+DIS_IsOutOfCounty:	import_utility\\dictionary\\Is Out Of County.txt
+DIS_SPADR^:	import_utility\\dictionary\\SPA.txt
+
+LOC_AccessLabView:	import_utility\\dictionary\\Access to Lab View Message Monitor.txt
+LOC_StreetAddress:	import_utility\\dictionary\\Address Number and Street.txt
+LOC_BuildingUnit:	import_utility\\dictionary\\Bldg_Unit.txt
+LOC_ManualResults:	import_utility\\dictionary\\Can Enter Results Manually.txt
+LOC_City:	import_utility\\dictionary\\City.txt
+LOC_Classification^:	import_utility\\dictionary\\Classification.txt
+LOC_CountyDR^:	import_utility\\dictionary\\County.txt
+LOC_DistrictDR^:	import_utility\\dictionary\\District.txt
+LOC_Email:	import_utility\\dictionary\\E-mail.txt
+LOC_Fax:	import_utility\\dictionary\\Fax Number.txt
+LOC_CLIACode:	import_utility\\dictionary\\ID_CLIA Code.txt
+LOC_InActive:	import_utility\\dictionary\\Inactive.txt
+LOC_InvestigationTypeDR:	import_utility\\dictionary\\Investigation(s).txt
+LOC_Name:	import_utility\\dictionary\\Location.txt
+LOC_LocationTypeDR^:	import_utility\\dictionary\\Location Type.txt
+LOC_OID:	import_utility\\dictionary\\OID.txt
+LOC_Phone:	import_utility\\dictionary\\Phone Number.txt
+LOC_PrimaryContact:	import_utility\\dictionary\\Primary Contact.txt
+LOC_SiteNumber:	import_utility\\dictionary\\Site#.txt
+LOC_State:	import_utility\\dictionary\\State.txt
+LOC_ZipCode:	import_utility\\dictionary\\Zip.txt
+
+RS_BuildingNumber:	import_utility\\dictionary\\Bldg_Suite.txt
+RS_Email:	import_utility\\dictionary\\E-mail.txt
+RS_FaxNumber:	import_utility\\dictionary\\Fax Number.txt
+RS_InActive:	import_utility\\dictionary\\Inactive.txt
+RS_IsPrivate:	import_utility\\dictionary\\Is Private.txt
+RS_LocationText:	import_utility\\dictionary\\LocationText.txt
+RS_NationalProviderIdentifier:	import_utility\\dictionary\\National Provider Identifier.txt
+RS_Notes:	import_utility\\dictionary\\Notes.txt
+RS_PagerNumber:	import_utility\\dictionary\\Private Phone_Ext.txt
+RS_HealthCareProvider:	import_utility\\dictionary\\Provider.txt
+RS_Type^:	import_utility\\dictionary\\Provider Type.txt
+
+USR_DistrictGroupDR^:	import_utility\\dictionary\\District Group.txt
+USR_AccountLocked:	import_utility\\dictionary\\Account Locked.txt
+USER_CaseManager:	import_utility\\dictionary\\Case Manager.txt
+USER_ContactInvestigator:	import_utility\\dictionary\\Contact Investigator.txt
+USR_Email:	import_utility\\dictionary\\E-mail Address.txt
+USER_ExternalUser:	import_utility\\dictionary\\External User (no login).txt
+USR_FirstName:	import_utility\\dictionary\\FirstName.txt
+USR_UserGroupDR^:	import_utility\\dictionary\\Group.txt
+USR_InActive:	import_utility\\dictionary\\Inactive.txt
+
+
+USR_LastLoginDate	import_utility\\dictionary\\date.txt
+USR_LastName:	import_utility\\dictionary\\LastName.txt
+USR_Login:	import_utility\\dictionary\\Login.txt
+USR_Password:	import_utility\\dictionary\\Password.txt
+USR_Phone:	import_utility\\dictionary\\Phone Number.txt

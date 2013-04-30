@@ -1,0 +1,1 @@
+False	1789 Eastwood cambridge	3-14/Second Street	False	LA County	Other	NEVADA, CA	district_selenium_0005	robert@gmail.com	9010309026	ID/CLIA Code04	False	sel_InvestigationType01	sel_Location05	sel_Location02	244543	1234567890	louis johnson	12356	Montana	98765

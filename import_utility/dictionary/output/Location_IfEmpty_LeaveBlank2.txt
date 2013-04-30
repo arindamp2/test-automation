@@ -1,0 +1,1 @@
+False	2454 NewYork LosAngels	3-14/Second Street	False	LA County	Laboratory	NEVADA, CA	district_selenium_0005	tom@rediff.com	9003454256	ID/CLIA Code04	False	sel_InvestigationType02	sel_Location05	sel_Location03	12245	9010308034	james andersan	12356	NY	09876

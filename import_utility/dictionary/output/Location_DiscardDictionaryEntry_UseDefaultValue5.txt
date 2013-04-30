@@ -1,0 +1,1 @@
+False	1789 Eastwood cambridge	EastBlock 31H	False	Norway	Laboratory	NEVADA, CA	district_selenium_0006	Jack@hotmail.com	9010309026	ID/CLIA Code05	False	sel_InvestigationType00	sel_Location03	sel_Location04	12245	9010308034	james corlew	09876	Montana	67890

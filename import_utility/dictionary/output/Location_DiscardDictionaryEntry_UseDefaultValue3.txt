@@ -1,0 +1,1 @@
+False	1789 Eastwood cambridge	1-3/F18	False	Norway	Health Care	HUMBOLDT, CA	district_selenium_0001	Jack@hotmail.com	9007866227	ID/CLIA Code03	False	sel_InvestigationType02	sel_Location05	sel_Location04	987	8961000707	james corlew	765	NY	17623

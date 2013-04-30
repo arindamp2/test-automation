@@ -1,0 +1,1 @@
+False	2454 NewYork LosAngels	EastBlock 31H	False	Alberta	Laboratory	MONTEREY, CA	district_selenium_0005	tom@rediff.com	9007866227	ID/CLIA Code04	False	sel_InvestigationType01	sel_Location05	sel_Location02	765	0987654321	phillips	765	Alberta	17623

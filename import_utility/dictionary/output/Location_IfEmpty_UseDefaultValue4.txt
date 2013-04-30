@@ -1,0 +1,1 @@
+False	2454 NewYork LosAngels	EastBlock 31H	False	Norway	Other	SAN DIEGO, CA	district_selenium_0006	robert@gmail.com	9003454256	ID/CLIA Code05	False	Pesticide	sel_Location03	sel_Location06	987	8098763425	james andersan	98765	Alberta	98765

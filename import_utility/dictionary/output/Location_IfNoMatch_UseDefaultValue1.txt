@@ -1,0 +1,1 @@
+False	2454 NewYork LosAngels	EastBlock 31H	False	Norway	Health Care	SANTA CRUZ, CA	district_selenium_0006	robert@gmail.com	9848440545	 	False	sel_InvestigationType01	sel_Location04	sel_Location01	244543	9010308034	louis johnson	09876	Alberta	67890

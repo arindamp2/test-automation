@@ -1,0 +1,1 @@
+False	2454 NewYork LosAngels	1-3/F18	False	Montana	Health Care	SANTA CRUZ, CA	district_selenium_0003	tom@rediff.com	9848440545	ID/CLIA Code02	False	sel_InvestigationType01	sel_Location03	sel_Location06	1.798	8961000707	louis johnson	765	Alberta	67890

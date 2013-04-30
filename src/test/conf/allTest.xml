@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="PH Test suite" verbose="1" preserve-order="false">
+    <test name="Security Related Test Cases">
+        <parameter name="excelName" value="/security.xls"/>
+        <parameter name="excelTabName" value="Data"/>
+        <classes>
+            <!--Change the following package structure -->
+	    	<class name="atlas.labworks.automation.fu.security.TestCreateUser"></class>
+		</classes>
+	  </test>
+            <!--<groups>-->
+            <!--<run>-->
+                <!--<include name="security"/>-->
+            <!--</run>-->
+        <!--</groups>-->
+</suite>

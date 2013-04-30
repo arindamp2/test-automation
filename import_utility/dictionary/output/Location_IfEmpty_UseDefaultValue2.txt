@@ -1,0 +1,1 @@
+False	1789 Eastwood cambridge	EastBlock 31H	False	Norway	Laboratory	HUMBOLDT, CA	district_selenium_0003	tom@rediff.com	9010309026	 	False	sel_InvestigationType00	sel_Location05	sel_Location02	765	8961000707	phillips	1345	Alberta	65432

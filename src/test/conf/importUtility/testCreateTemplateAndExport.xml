@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PH Test suite" verbose="1" preserve-order="false">
+    <test name="Testing Import Utility">
+        <parameter name="excelName" value="/importUtility/dictionaryImportUtility.xls" />
+        <parameter name="excelTabName" value="Data" />
+        <parameter name="xPathDataTab" value="XPath"/>
+        <classes>
+            <class name="atlas.cmr.automation.importUtility.TestCreateTemplateAndExport"></class>
+        </classes>
+    </test>
+</suite>

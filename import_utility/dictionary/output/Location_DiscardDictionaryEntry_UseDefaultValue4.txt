@@ -1,0 +1,1 @@
+False	2454 NewYork LosAngels	1-3/F18	False	Alberta	Health Care	MONTEREY, CA	district_selenium_0003	robert@gmail.com	8143657547	ID/CLIA Code05	False	sel_InvestigationType00	sel_Location03	sel_Location02	12245	8961000707	james andersan	765	NY	98765

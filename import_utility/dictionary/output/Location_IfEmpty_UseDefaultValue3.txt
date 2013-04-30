@@ -1,0 +1,1 @@
+False	2454 NewYork LosAngels	3-14/Second Street	False	Norway	Laboratory	LOS ANGELES, CA	district_selenium_0006	tom@rediff.com	9010309026	ID/CLIA Code03	False	sel_InvestigationType01	sel_Location05	sel_Location05	098	0987654321	louis johnson	12356	LAC	65432

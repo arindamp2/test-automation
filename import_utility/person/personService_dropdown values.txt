@@ -1,0 +1,1 @@
+client record -> SVC_StatusDR is DropDown TypeClosed Resolved	Closed Unresolved	Completed Resolved	Completed Unresolved	Open
